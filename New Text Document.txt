@@ -1,0 +1,7 @@
+###['Education', 'Income', 'Kidhome', 'Teenhome', 'Recency', 'MntWines',
+       'MntFruits', 'MntMeatProducts', 'MntFishProducts', 'MntSweetProducts',
+       'MntGoldProds', 'NumDealsPurchases', 'NumWebPurchases',
+       'NumCatalogPurchases', 'NumStorePurchases', 'NumWebVisitsMonth',
+       'AcceptedCmp3', 'AcceptedCmp4', 'AcceptedCmp5', 'AcceptedCmp1',
+       'AcceptedCmp2', 'Complain', 'Response', 'Age', 'Spent', 'Living_With',
+       'Children', 'Family_Size', 'Is_Parent', 'Clusters', 'Total_Promos']

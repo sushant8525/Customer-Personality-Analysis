@@ -7,14 +7,20 @@
 <p align="center"> 
 <img src="images/all.png" alt="all.png" height="382px">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :book:Introduction</h2>
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 <h2> :book:Problem Statements</h2>
 Customer Personality Analysis is a detailed analysis of a company's ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book:Dataset features</h2>
 
@@ -56,6 +62,17 @@ Customer Personality Analysis is a detailed analysis of a company's ideal custom
 * `NumCatalogPurchases`: Number of purchases made using a catalogue
 * `NumStorePurchases`: Number of purchases made directly in stores
 * `NumWebVisitsMonth`: Number of visits to company’s website in the last month
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :book: Depoyment on render.com</h2>
+
+<p align="center"> 
+<img src="images/123.png" alt="123.png" height="382px">
+</p>
+[![](https://github.com/sushant8525/McDonalds-case-study/blob/42f7f7c267fb9f88cfff3174f727a5323e945b9b/images/1.png)](https://mcdonalds-case-study.onrender.com/
+)
+
 # 
 <h2> :book:Conclusion</h2>
 
@@ -76,5 +93,7 @@ Customer Personality Analysis is a detailed analysis of a company's ideal custom
 * Most of the customers are earning between 25000 and 85000.
 
 * Those who are earning more are also spending more.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-jagtap-b93a771a/)
