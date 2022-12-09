@@ -7,6 +7,7 @@
 <p align="center"> 
 <img src="images/all.png" alt="all.png" height="382px">
 </p>
+<h3 align="center"> Ineuron Verfied Project - <a href="https://www.ineuron.com/"> ineuron </a> </h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
